@@ -1,0 +1,31 @@
+body {
+    background-color: aquamarine;
+}
+
+.enquiry {
+    background-color: beige; 
+}
+h2 {
+    text-align: center;
+
+
+h4 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.card {
+    border: 2px solid black;
+    border-radius: 10%;  
+    height:fit-content;  
+}
+
+.card > img {
+    border-bottom-right-radius: 10%;
+    border-top-left-radius: 10%;
+}
+
+nav {
+    text-align: left;
+}
+
